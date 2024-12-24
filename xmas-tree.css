@@ -124,3 +124,18 @@ div {
     opacity: 0.5;
   }
 }
+
+@media (max-width: 768px) {
+  .greeting {
+    font-size: 1.5em;
+  }
+  .a3d {
+    --n-arms: 1;
+  }
+}
+
+@media (max-width: 480px) {
+  .greeting {
+    font-size: 1.2em;
+  }
+}

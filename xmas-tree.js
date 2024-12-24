@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   gsap.to(".greeting", {
     duration: 5,
-    text: "Chúc mừng Giáng sinh Lê Chân Phương",
+    text: "Happy birthday Lê Chân Phương",
     ease: "power1.inOut",
     delay: 2,
   });
